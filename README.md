@@ -1,5 +1,5 @@
 <h1 align="center">AL4594</h1>
-<h3 align="center">Étudiant passioné par la data et les insights qu'on en déduit</h3>
+<h3 align="center">Data engineering / Data Science</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
